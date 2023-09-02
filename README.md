@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrenoTF
 - 👀 I’m interested in learn
-- 🌱 I’m currently learning CC50
+- 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on program knowledge
 - 📫 How to reach me @brenofranquilimph
 
